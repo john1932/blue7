@@ -22,9 +22,7 @@
                             <span>Awesome</span> Works
                         </h3>
                     </div>
-                    <div class="button-container">
-                        <button type="button" class="btn btn-sm btn-default btn-effect">Get Started</button>
-                    </div>
+
                 </div>
 
                 <div class="item">
@@ -41,11 +39,7 @@
                             <span>Ex</span>perience
                         </h3>
                     </div>
-                    <!-- /.top-headings -->
-                    <div class="button-container">
-                        <button type="button" class="btn btn-sm btn-default btn-effect">Get Started</button>
-                    </div>
-                    <!-- /.button-container -->
+
                 </div>
                 <!-- /.item -->
 
@@ -63,11 +57,7 @@
                             <span>Multi</span>Works
                         </h3>
                     </div>
-                    <!-- /.top-headings -->
-                    <div class="button-container">
-                        <button type="button" class="btn btn-sm btn-default btn-effect">Get Started</button>
-                    </div>
-                    <!-- /.button-container -->
+
                 </div>
                 <!-- /.item -->
             </div>

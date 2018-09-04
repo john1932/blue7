@@ -84,7 +84,7 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="#contact">Contact</a>
+                            <a href="http://localhost/blue7/contact.php">Contact</a>
                         </li>
                         <li>
                             <a href="">Price Request</a>
