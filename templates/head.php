@@ -47,10 +47,10 @@
                 <nav class="collapse navbar-collapse" role="navigation">
                     <ul id="headernavigation" class="nav navbar-nav pull-right">
                         <li class="">
-                            <a href="http://localhost/blue7/index.php">Home</a>
+                            <a href="http://localhost/blue7v2/index.php">Home</a>
                         </li>
                         <li class="">
-                            <a href="http://localhost/blue7/about.php">About US</a>
+                            <a href="http://localhost/blue7v2/about.php">About US</a>
                         </li>
                         <li class="dropdown">
                             <a href="" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Our Works
@@ -84,7 +84,7 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="http://localhost/blue7/contact.php">Contact</a>
+                            <a href="http://localhost/blue7v2/contact.php">Contact</a>
                         </li>
                         <li>
                             <a href="">Price Request</a>
